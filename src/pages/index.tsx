@@ -8,8 +8,8 @@ export default function Home() {
       <Head>
         <title>ig.news</title>
       </Head>
-      <h1 >Home news!</h1>);
+      <h1 >Home news!</h1>
     </>
-  );
+  )
 }
 import React from "react";
