@@ -9,4 +9,3 @@ export const stripe = new Stripe(process.env.STRIPE_API_KEY, {
   },
 });
 
-console.log("stripe: " + process.env.STRIPE_API_KEY);
